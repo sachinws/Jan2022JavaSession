@@ -8,6 +8,7 @@ public class CostructorCreate {
 	
 	public CostructorCreate() {
 		System.out.println("new Constructor created");
+		System.out.println("new HotFix in master Branch");
 	}
 	
 	public static void main(String[] args) {
