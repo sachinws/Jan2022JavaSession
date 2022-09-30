@@ -13,6 +13,10 @@ public class CartType {
 		int i = 10;
 		System.out.println(i);
 		
+		String f1 ="feature 1";
+		System.out.println(f1);
+				
+		
 	}
 
 }
